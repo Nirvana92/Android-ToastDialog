@@ -1,4 +1,4 @@
-![gif](https://github.com/jaikydota/Android-LoadingAnimation/blob/master/LoadingAnimation/demo-resourse/demo.gif)  
+![gif](https://github.com/jaikydota/Android-ToastDialog/blob/master/Demo/20161003211730975.gif)  
 
 
 # ToastDialog
